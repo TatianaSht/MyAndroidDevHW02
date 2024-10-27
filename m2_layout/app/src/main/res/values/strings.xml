@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Android Dev HW 02</string>
+    <string name="top_line">Верхняя строчка</string>
+    <string name="bottom_line">Нижняя строчка</string>
+</resources>
